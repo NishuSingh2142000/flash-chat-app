@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361298555364",
+    "project_id": "flash-chat-app-5df24",
+    "storage_bucket": "flash-chat-app-5df24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361298555364:android:7e6586ed31d2e762d117f1",
+        "android_client_info": {
+          "package_name": "com.Nishu.flash_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361298555364-k5sl84bt5lvbeopjh0gt91pmfslte63r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBjue_7mLN0ExqgGPL3YKZQCwzfSwDufw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361298555364-k5sl84bt5lvbeopjh0gt91pmfslte63r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
